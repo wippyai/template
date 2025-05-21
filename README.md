@@ -26,6 +26,7 @@
 - Replace all `{Package Name}` with the actual package name.
 - Replace the `{description}` with the actual package description.
 - Fill the `.github/CODEOWNERS` with the actual owners.
+  - Configure access to the repository for the owners.
 - Check that the `LICENSE.md` file is present and contains the correct license information.
 - Customize the `CONTRIBUTING.md` file with the actual contribution guidelines or remove it if not needed.
 - Fill the blocks below with the actual information or remove them if not needed.
@@ -76,5 +77,5 @@ go build
 go test
 ```
 
-[documentation]: https://docs.wippy.ai/docs
+[documentation]: https://github.com/wippyai/docs
 [releases-page]: https://github.com/wippyai/{repo}/releases
