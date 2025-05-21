@@ -9,7 +9,16 @@
 
 <h1 align="center">[Package name]</h1>
 
+[description]
+
 ---
+
+## TODO
+
+- Replace all `[Package name]` with the actual package name.
+- Replace the `[description]` with the actual package description.
+- Fill `.github/CODEOWNERS` with the actual owners.
+- Fill `LICENSE.md` with the actual license.
 
 
 
