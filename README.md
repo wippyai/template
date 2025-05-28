@@ -10,7 +10,7 @@
 <div align="center">
 
 [![Latest Release](https://img.shields.io/github/v/release/wippyai/{repo}?style=flat-square)][releases-page]
-[![License](https://img.shields.io/github/license/wippyai/{repo}?style=flat-square)](LICENSE.md)
+[![License](https://img.shields.io/github/license/wippyai/{repo}?style=flat-square)](LICENSE)
 ![Downloads](https://img.shields.io/github/downloads/wippyai/{repo}/total?style=flat-square)
 [![Documentation](https://img.shields.io/badge/documentation-online-brightgreen.svg?style=flat-square)][documentation]
 
@@ -26,7 +26,7 @@
 - Replace all `{Package Name}` with the actual package name.
 - Replace the `{description}` with the actual package description.
 - Fill the `.github/CODEOWNERS` with the actual owners.
-  - Configure access to the repository for the owners.
+  - Configure access to the repository for the owners in https://github.com/wippyai/{repo}/settings/access
 - Check that the `LICENSE.md` file is present and contains the correct license information.
 - Customize the `CONTRIBUTING.md` file with the actual contribution guidelines or remove it if not needed.
 - Fill the blocks below with the actual information or remove them if not needed.
@@ -77,5 +77,5 @@ go build
 go test
 ```
 
-[documentation]: https://github.com/wippyai/docs
+[documentation]: https://docs.wippy.ai
 [releases-page]: https://github.com/wippyai/{repo}/releases
